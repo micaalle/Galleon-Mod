@@ -1,0 +1,7 @@
+0.0.4 Implemented damage scaling for the Galleons cannon with a 20% modifier per stronger explosives level
+
+0.0.3 Fixed name for The Galleons cannon to display "Cannon" rather then "item-pirateship-gun"
+
+0.0.2 Implemented cannons onto the Galleon, these can be used with the new CannonBall ammo which is unlocked with the Ship Building research. The damage of these is set and doesn't currently scale with the explosives technology however that will be in 0.0.4. 
+
+0.0.1 Base mod published

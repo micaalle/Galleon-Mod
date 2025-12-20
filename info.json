@@ -1,0 +1,12 @@
+{
+  "name": "pirateship",
+  "version": "0.0.4",
+  
+  "title": "Distant Shores",
+  "description": "Introduces shipbuilding research, enabling the construction of the fast Galleon. Enter the ship with Shift + Enter",
+  
+  "author": "micaalle",
+
+  "dependencies": ["base >= 2.0.20"],
+  "factorio_version": "2.0"
+}
